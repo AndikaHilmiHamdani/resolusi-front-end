@@ -1,0 +1,11 @@
+Untuk menjadi seorang front end developer saya harus belajar
+-HTML
+-CSS
+-JAVASCRIPT
+  -Dasar
+  -oop
+  -Jquery
+  -DOM
+-React
+-Hosting
+  
