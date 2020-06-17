@@ -7,6 +7,8 @@ to be a front end developer i must study
   -Jquery
   -json
   -DOM
+  -ES6
+  -AJAX
 -React (optional framework)
 -Hosting
   
